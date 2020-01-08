@@ -1,4 +1,4 @@
-# Project-Picard
+# Docker-Example
 This project is a simple example of a XAMP development enviroment build using docker.
 It stands up a Apache and PHP server with the mysql php module installed.
 It also stands up and initalises a mysql container for use with the web container.
